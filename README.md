@@ -1,5 +1,11 @@
 # 🐝 BeeIstria — Frontend
 
+
+🔗 **Live aplikacija:** https://beeistria.netlify.app
+
+> ⚠️ Backend je hostan na Render free tieru — prvi zahtjev nakon dužeg 
+> mirovanja može trajati do 60 sekundi (cold start).
+
 Vue 3 aplikacija za platformu BeeIstria — sve o pčelarstvu u Istri. Omogućuje registraciju, prijavu, pregled i kupovinu meda, komentare, provjeru vremena i pčelarski kalendar.
 
 ## 🛠️ Tehnologije
